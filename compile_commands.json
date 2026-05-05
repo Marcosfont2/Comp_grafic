@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\source\\main.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\source\\main.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/source/main.cpp",
+  "output": "CMakeFiles/rt3.dir/source/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\source\\parser.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\source\\parser.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/source/parser.cpp",
+  "output": "CMakeFiles/rt3.dir/source/parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\source\\sphere.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\source\\sphere.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/source/sphere.cpp",
+  "output": "CMakeFiles/rt3.dir/source/sphere.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\source\\app.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\source\\app.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/source/app.cpp",
+  "output": "CMakeFiles/rt3.dir/source/app.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\libs\\math\\math.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\libs\\math\\math.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/libs/math/math.cpp",
+  "output": "CMakeFiles/rt3.dir/libs/math/math.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\libs\\lodepng\\lodepng.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\libs\\lodepng\\lodepng.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/libs/lodepng/lodepng.cpp",
+  "output": "CMakeFiles/rt3.dir/libs/lodepng/lodepng.cpp.obj"
+},
+{
+  "directory": "C:/Users/marco/Downloads/ray-tracer/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/rt3.dir/includes_CXX.rsp -std=gnu++17 -Wall -Wextra -Wshadow -Wpedantic -g -O2 -o CMakeFiles\\rt3.dir\\libs\\tinyxml2\\tinyxml2.cpp.obj -c C:\\Users\\marco\\Downloads\\ray-tracer\\libs\\tinyxml2\\tinyxml2.cpp",
+  "file": "C:/Users/marco/Downloads/ray-tracer/libs/tinyxml2/tinyxml2.cpp",
+  "output": "CMakeFiles/rt3.dir/libs/tinyxml2/tinyxml2.cpp.obj"
+}
+]
